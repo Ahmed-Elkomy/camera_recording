@@ -23,6 +23,7 @@ class CameraExampleHome extends StatefulWidget {
 //test merging
 //test merging2
 //test merging3
+//test merging4
 IconData getCameraLensIcon(CameraLensDirection direction) {
   switch (direction) {
     case CameraLensDirection.back:
